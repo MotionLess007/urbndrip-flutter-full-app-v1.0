@@ -9,6 +9,9 @@ environment:
   sdk: ">=3.0.0 <4.0.0"
 
 dependencies:
+  cloud_firestore: ^6.4.1
+  firebase_auth: ^6.5.1
+  firebase_core: ^4.9.0
   flutter:
     sdk: flutter
 
@@ -23,3 +26,24 @@ flutter:
   assets:
     - assets/bg.jpg
     - assets/checkoutbg.jpeg
+    - assets/p1.jpeg
+    - assets/p2.jpeg
+    - assets/p3.jpeg
+    - assets/p4.jpeg
+    - assets/p5.jpeg
+    - assets/p6.jpeg
+    - assets/p7.jpeg
+    - assets/p8.jpeg
+    - assets/p9.jpeg
+    - assets/p10.jpeg
+    - assets/p11.jpeg
+    - assets/p12.jpeg
+    - assets/p13.jpeg
+    - assets/p14.jpeg
+    - assets/p15.jpeg
+    - assets/p16.jpeg
+    - assets/p17.jpeg
+    - assets/p18.jpeg
+    - assets/p19.jpeg
+    - assets/p20.jpeg
+
